@@ -1,0 +1,12 @@
+{
+  "supabase": {
+    "fuente": "svgl",
+    "url": "https://svgl.app",
+    "white_fill": false
+  },
+  "vercel": {
+    "fuente": "svgl",
+    "url": "https://svgl.app",
+    "white_fill": false
+  }
+}
